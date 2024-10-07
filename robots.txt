@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gohakisocuci.pages.dev/sitemap.xml
